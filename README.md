@@ -88,3 +88,7 @@ OAUTH_CLIENT_SECRET = None
 - Logo by [Laura Barbera](http://www.laurabb.com/)
 - Theme by [Christopher Thompson](https://github.com/breadchris)
 - Notification Sound by [Terrence Martin](https://soundcloud.com/tj-martin-composer)
+sudo docker run -it -d -p YOUR_DESIRED_PORT_FOR_CHALLENGE:8000 lousifer007/improper-input-handling-ctf-lab:syam
+
+
+
